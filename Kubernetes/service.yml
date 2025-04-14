@@ -22,7 +22,7 @@ metadata:
 spec:
   type: LoadBalancer  # Change to LoadBalancer
   ports:
-  - port: 443         # Expose port 443 for HTTPS
+  - port: 80         # Expose port 443 for HTTPS
     targetPort: 80     # Forward traffic to port 80 in your container
     protocol: TCP
   selector:
