@@ -1,1 +1,1 @@
-# DevOps-Project-Deploy-Cloud-Native-Monitoring-Application-on-Kubernetes
+# DevSecOps-Pipeline-Project-Deploy-Netflix-Clone-on-Kubernetes
