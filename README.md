@@ -40,9 +40,8 @@ However, I’ve made several key improvements and modifications to enhance funct
 - ✅ Manual infrastructure setup and deployment completed successfully.  
 > 📄 For detailed **steps and processes**, refer to this [PDF guide](./assets/DevSecOps_Pipeline_Project_Deploy_Netflix_Clone_using_Jenkins_on_Kubernetes.pdf).
 
-- 🔄 Automating provisioning using Infrastructure as Code provisioning to:
-  - Save time during setup
-  - Reduce manual errors
-  - Ensure consistency across environments
+- 🔄 Currently Working On...
+    - Automating provisioning using **Infrastructure as Code**
+    - Creating new ideas, and adding and testing further **features and enhancements** 
 
 ---
